@@ -1,0 +1,7 @@
+E:\Mphasis\Day12\Assignment_PropertiesPart1\Assignment_PropertiesPart1\bin\Debug\Assignment_PropertiesPart1.exe.config
+E:\Mphasis\Day12\Assignment_PropertiesPart1\Assignment_PropertiesPart1\bin\Debug\Assignment_PropertiesPart1.exe
+E:\Mphasis\Day12\Assignment_PropertiesPart1\Assignment_PropertiesPart1\bin\Debug\Assignment_PropertiesPart1.pdb
+E:\Mphasis\Day12\Assignment_PropertiesPart1\Assignment_PropertiesPart1\obj\Debug\Assignment_PropertiesPart1.csproj.AssemblyReference.cache
+E:\Mphasis\Day12\Assignment_PropertiesPart1\Assignment_PropertiesPart1\obj\Debug\Assignment_PropertiesPart1.csproj.CoreCompileInputs.cache
+E:\Mphasis\Day12\Assignment_PropertiesPart1\Assignment_PropertiesPart1\obj\Debug\Assignment_PropertiesPart1.exe
+E:\Mphasis\Day12\Assignment_PropertiesPart1\Assignment_PropertiesPart1\obj\Debug\Assignment_PropertiesPart1.pdb
